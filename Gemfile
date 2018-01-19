@@ -47,6 +47,7 @@ group :development, :test do
   gem 'angularjs-rails'
   gem 'will_paginate'
   gem 'bootstrap-will_paginate'
+  gem 'font-awesome-rails'
   # Test Suite
   gem 'rspec-rails'
   gem 'shoulda'
